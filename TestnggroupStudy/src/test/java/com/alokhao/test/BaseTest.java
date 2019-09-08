@@ -18,6 +18,7 @@ public class BaseTest {
   @BeforeMethod
   public void beforeMethod() {
 	  System.out.println("beforeMethod");
+	  System.out.println("before---Method");
   }
 
   @AfterMethod
